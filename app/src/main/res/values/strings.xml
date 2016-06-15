@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoClient</string>
+    <string name="name">Name :</string>
+    <string name="author">Author :</string>
+    <string name="categoryActivity">Pick Category</string>
+    <string name="previewActivity">Select Photo</string>
+    <string name="copyright">©</string>
+</resources>
